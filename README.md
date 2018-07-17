@@ -45,3 +45,14 @@ Replace the bracketed `[source file]`, `[username]` and `[destination server]` t
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+
+TO Do:
+
+        Work on the product flow
+        
+        Find mature technologies to impliment the finction.
+        
+        Check on how to implement file transfer
+
+        ..
